@@ -1,9 +1,11 @@
 package Aman_Java_Questions;
 
-public class Snippet {
-	public static void main(String[] args) {
-		// java questions
-		System.out.println("rwar");
-	}
-}
+public class Test {
 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Test
+
+	}
+
+}
